@@ -1,4 +1,4 @@
 # pig-game
 A game built with javascript
-![screenshoot 1](Screenshot.jpg)
-![screenshoot 2](Screenshot2.jpg)
+![screenshot 1](Screenshot.png)
+![screenshot 2](Screenshot2.png)
